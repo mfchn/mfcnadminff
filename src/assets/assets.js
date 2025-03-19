@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://mfcndpa.onrender.com'
+export const url = 'https://mfcnbeff.onrender.com'
